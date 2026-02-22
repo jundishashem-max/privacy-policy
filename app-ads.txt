@@ -1,7 +1,1 @@
-# AdMob app-ads.txt للعبة Break The Code
-# الموقع: https://jundishashem-max.github.io/
-# المطور: Hashem
-# التاريخ: 2024
-
 google.com, pub-8849391624443732, DIRECT, f08c47fec0942fa0
-google.com, pub-8849391624443732, RESELLER, f08c47fec0942fa0
